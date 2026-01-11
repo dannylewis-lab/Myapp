@@ -1,0 +1,40 @@
+{
+  "name": "MyApp",
+  "displayName": "MyApp Financial Management",
+  "version": "1.0.0",
+  "description": "A comprehensive financial management application for personal and business use",
+  "author": {
+    "name": "MyApp Team",
+    "email": "support@myapp.com"
+  },
+  "license": "MIT",
+  "homepage": "https://myapp.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dannylewis-lab/Myapp.git"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "keywords": [
+    "financial",
+    "management",
+    "budget",
+    "expense",
+    "accounting"
+  ],
+  "features": [
+    "Budget tracking and management",
+    "Expense categorization and analysis",
+    "Financial reporting and insights",
+    "Multi-currency support",
+    "Secure data encryption",
+    "Real-time notifications"
+  ],
+  "supportedPlatforms": [
+    "web",
+    "ios",
+    "android"
+  ]
+}
